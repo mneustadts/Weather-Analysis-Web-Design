@@ -7,7 +7,7 @@ img {
   }
   
   h1, h2, h3{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Arial', Times, serif;
     color: cyan;
   }
   
@@ -46,7 +46,7 @@ img {
   body {
     width: 100%;
     min-height:100%;
-    background-color: lightgray;
+    background-color: gray;
   }
   
   .col {
@@ -54,7 +54,7 @@ img {
   } 
   
   .homebtn{
-    background-color: white;
+    background-color: black;
     z-index:2;
   }
   
@@ -72,12 +72,12 @@ img {
   }
   
   .divtop{
-    background-color: white;
+    background-color: black;
     z-index:2;
   }
   
   .divbdy{
-    background-color: white;
+    background-color: lightgray;
     z-index:1;
   }
   
@@ -90,10 +90,10 @@ img {
   .divbtm {
     width:100%;
     bottom:0;
-    background-color: gray;
+    background-color: black;
     z-index:0;
     font-size: 12px;
-    color: white;
+    color: cyan;
     text-align: center;
     padding: 5px;
     margin: 0px;
